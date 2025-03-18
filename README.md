@@ -1,6 +1,6 @@
-# Float Cards for Anki
+# Float Cards
 
-A floating window that shows the current card, allowing you to review cards while doing other tasks. Perfect for multitasking and efficient studying.
+An Anki addon that creates a floating window to display the current card with custom intervals, allowing you to review cards while doing other tasks.
 
 <img src="https://github.com/user-attachments/assets/8e210aaf-f998-4a5f-a128-04f782f9d1aa" width="35%">
 <img src="https://github.com/user-attachments/assets/7d5e34c7-2a54-4ba6-aaac-011d49244110" width="35%">
