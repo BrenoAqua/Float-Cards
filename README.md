@@ -18,7 +18,6 @@ An Anki addon that creates a floating window to display the current card with cu
 
 ## Installation
 
-### From AnkiWeb
 1. Download the addon from [AnkiWeb](https://ankiweb.net/shared/info/17442591)
 2. Restart Anki
 3. Access the addon through Tools > Float Cards
