@@ -48,8 +48,10 @@ You can configure the addon through Float Cards > Configure:
 | Toggle Scheduling | Ctrl+Alt+S |
 | Toggle Auto-close | Ctrl+Alt+A |
 | Show Answer | Space |
-| Grade Again | h |
-| Grade Good | j |
+| Again | h |
+| Good | j |
+| Hard |   |
+| Easy |   |
 | Play Audio | R |
 | Play Second Audio | Ctrl+R |
 
