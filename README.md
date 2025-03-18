@@ -39,9 +39,9 @@ You can configure the addon through Float Cards > Configure:
 <img src="https://github.com/user-attachments/assets/2999ae8b-3452-4968-a528-4052e6ec64cf" width="32.5%">
 <img src="https://github.com/user-attachments/assets/73015871-d242-49aa-b358-8423480eddcc" width="32.5%">
 
-### Default Keyboard Shortcuts
+### Default Keyboard Hotkeys
 
-| Action | Shortcut |
+| Action | Hotkey |
 |--------|----------|
 | Show/Hide Window | Ctrl+Shift+M |
 | Toggle Stay on Top | Ctrl+T |
