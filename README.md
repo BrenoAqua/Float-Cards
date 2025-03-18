@@ -80,7 +80,7 @@ You can set a custom background image for the popup window:
 The addon supports automatic card scheduling:
 1. Enable scheduling in the config
 2. Select your target deck
-3. Set the frequency of cards
+3. Set the interval
 4. Optionally enable auto-close after answering
 
 ## Requirements
