@@ -55,7 +55,7 @@ You can configure the addon through Float Cards > Configure:
 
 ## Usage
 
-1. Press Ctrl+Shift+M (default) or use Tools > Float Cards to show/hide the window
+1. Press Ctrl+Shift+M (default) or use Float Cards > Toggle Float Cards to show/hide the window
 
 ![anki_QbXsCkPi3D](https://github.com/user-attachments/assets/87d2c6d9-cc9d-4737-96b8-0e3eeb60ab00)
 
