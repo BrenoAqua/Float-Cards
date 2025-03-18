@@ -12,9 +12,9 @@ A floating window that shows the current card, allowing you to review cards whil
 - Support for light/dark themes
 - Keyboard shortcut support
 - Scheduling with intervals and auto-close functionality
-- Modern, minimal interface
 - Custom background image support with opacity control
 - Configurable button visibility and styling
+- Minimal interface
 
 ## Installation
 
