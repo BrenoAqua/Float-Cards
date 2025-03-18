@@ -1,0 +1,105 @@
+{
+    "window_width": 485,
+    "window_height": 755,
+    "position_x": 829,
+    "position_y": 78,
+    "stay_on_top": true,
+    "shortcut": "Ctrl+Shift+M",
+    "buttons": {
+        "show_again": true,
+        "show_hard": false,
+        "show_good": true,
+        "show_easy": false,
+        "styles": {
+            "height": 30,
+            "min_width": 50,
+            "border_radius": 3,
+            "font_weight": "bold",
+            "colors": {
+                "again": {
+                    "background": "#2F2F31",
+                    "background hover": "#FF1211",
+                    "text": "#FF1211",
+                    "text hover": "#2F2F31",
+                    "border": "#FF1211"
+                },
+                "hard": {
+                    "background": "#2F2F31",
+                    "background hover": "#FF9814",
+                    "text": "#FF9814",
+                    "text hover": "#2F2F31",
+                    "border": "#FF9814"
+                },
+                "good": {
+                    "background": "#2F2F31",
+                    "background hover": "#33FF2D",
+                    "text": "#33FF2D",
+                    "text hover": "#2F2F31",
+                    "border": "#33FF2D"
+                },
+                "easy": {
+                    "background": "#2F2F31",
+                    "background hover": "#21C0FF",
+                    "text": "#21C0FF",
+                    "text hover": "#2F2F31",
+                    "border": "#21C0FF"
+                },
+                "show_answer": {
+                    "background": "#2F2F31",
+                    "background hover": "#F0F0F0",
+                    "text": "#F0F0F0",
+                    "text hover": "#2F2F31",
+                    "border": "#F0F0F0"
+                }
+            }
+        }
+    },
+    "theme": {
+        "light": {
+            "background": "#ffffff",
+            "text": "#000000",
+            "button_bg": "#e0e0e0",
+            "button_text": "#000000",
+            "button_border": "#cccccc",
+            "font_family": "Arial",
+            "font_size": 12,
+            "line_height": 1.5,
+            "padding": 10
+        },
+        "dark": {
+            "background": "#2f2f31",
+            "text": "#ffffff",
+            "button_bg": "#444444",
+            "button_text": "#ffffff",
+            "button_border": "#666666",
+            "font_family": "Arial",
+            "font_size": 12,
+            "line_height": 1.5,
+            "padding": 10
+        }
+    },
+    "hotkeys": {
+        "show_answer": "Space",
+        "again": "h",
+        "hard": "",
+        "good": "j",
+        "easy": "",
+        "toggle_stay_on_top": "Ctrl+T",
+        "replay_sound": "R",
+        "replay_second_sound": "Ctrl+R",
+        "toggle_scheduling": "Ctrl+Alt+S",
+        "toggle_auto_close": "Ctrl+Alt+A"
+    },
+    "scheduling": {
+        "enabled": false,
+        "frequency": 1,
+        "deck": "Senren",
+        "auto_close_on_answer": false
+    },
+    "button_height": 40,
+    "background": {
+        "enabled": true,
+        "image_path": "C:/Users/Administrator/Desktop/refs/__hatsune_miku_kasane_teto_and_akita_neru_vocaloid_and_3_more_drawn_by_miratsu_miratsu169__ff351d18a161917a90a4dfa88704b5ad.jpg",
+        "opacity": 20
+    }
+}
