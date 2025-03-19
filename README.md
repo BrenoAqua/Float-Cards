@@ -8,13 +8,17 @@ An Anki addon that creates a floating window to display the current card with cu
 ## Features
 
 - Floating window that stays on top (optional)
-- Syncs with main Anki window
+- Syncs with main Anki window, closes the deck together with the pop-up
 - Support for light/dark themes
-- Keyboard shortcut support
+- Keyboard shortcut support with support for multiple hotkeys for the same function 
 - Scheduling with intervals and auto-close functionality
 - Custom background image support with opacity control
 - Configurable button visibility and styling
 - Minimal interface
+- Content scaling (50-200%)
+- Hardware acceleration and image optimization
+- Quick loading of next cards
+- Position, content scaling and window memory between sessions
 
 ## Installation
 
@@ -24,15 +28,16 @@ An Anki addon that creates a floating window to display the current card with cu
 
 ## Configuration
 
-You can configure the addon through Float Cards > Configure:
+Access the addon through Float Cards > Toggle Float Cards/Config
 
 - Window size and position
 - Stay on top behavior
-- Keyboard shortcuts
-- Button visibility and styling
+- Theme customization
+- Content scaling
 - Background image and opacity
-- Font settings (line height)
-- Scheduling options
+- Button visibility and styling
+- Keyboard hotkeys
+- Performance settings
 
 <img src="https://github.com/user-attachments/assets/689d5234-74be-495b-b08c-2b5c58818b23" width="32.5%">
 <img src="https://github.com/user-attachments/assets/2999ae8b-3452-4968-a528-4052e6ec64cf" width="32.5%">
@@ -47,12 +52,13 @@ You can configure the addon through Float Cards > Configure:
 | Toggle Scheduling | Ctrl+Alt+S |
 | Toggle Auto-close | Ctrl+Alt+A |
 | Show Answer | Space |
-| Again | h |
-| Good | j |
-| Hard |   |
-| Easy |   |
+| Again | 1 |
+| Hard | 2 |
+| Good | 3 |
+| Easy | 4 |
 | Play Audio | R |
 | Play Second Audio | Ctrl+R |
+| Toggle Scale Dialog | Ctrl+Alt+Z |
 
 ## Usage
 
@@ -66,7 +72,7 @@ You can configure the addon through Float Cards > Configure:
 5. Use Ctrl+Alt+S to toggle scheduling
 6. Use Ctrl+Alt+A to toggle auto-close
 7. Use Ctrl+T to toggle stay-on-top
-8. Right-click for context menu options
+8. Use Ctrl+Alt+Z to adjust content scaling
 
 ### Background Image
 
@@ -82,7 +88,8 @@ The addon supports automatic card scheduling:
 1. Enable scheduling in the config
 2. Select your target deck
 3. Set the interval
-4. Optionally enable auto-close after answering
+4. Optionally enable auto-close
+5. Set the number of answers before auto-closing
 
 ## Requirements
 
