@@ -39,9 +39,11 @@ Access the addon through Float Cards > Toggle Float Cards/Config
 - Keyboard hotkeys
 - Performance settings
 
-<img src="https://github.com/user-attachments/assets/689d5234-74be-495b-b08c-2b5c58818b23" width="32.5%">
-<img src="https://github.com/user-attachments/assets/2999ae8b-3452-4968-a528-4052e6ec64cf" width="32.5%">
-<img src="https://github.com/user-attachments/assets/73015871-d242-49aa-b358-8423480eddcc" width="32.5%">
+<img src="https://github.com/user-attachments/assets/5f0b4d9c-7273-4f11-a83a-f71db337d9e2" width="32.5%">
+<img src="https://github.com/user-attachments/assets/d8e97bd7-0918-45fb-8a35-1bb7c2aaf780" width="32.5%">
+<img src="https://github.com/user-attachments/assets/ef883bca-3f17-4065-a51f-b44f63bc4283" width="32.5%">
+<img src="https://github.com/user-attachments/assets/1208b331-0339-4c78-a15b-313f365967f1" width="32.5%">
+<img src="https://github.com/user-attachments/assets/9e223ca9-909e-4a6d-9f75-3b3506283a2e" width="32.5%">
 
 ### Default Keyboard Hotkeys
 
@@ -64,7 +66,7 @@ Access the addon through Float Cards > Toggle Float Cards/Config
 
 1. Press Ctrl+Shift+M (default) or use Float Cards > Toggle Float Cards to show/hide the window
 
-![anki_QbXsCkPi3D](https://github.com/user-attachments/assets/87d2c6d9-cc9d-4737-96b8-0e3eeb60ab00)
+![anki_oKofQZkD18](https://github.com/user-attachments/assets/392bd57e-4271-4ac0-96ba-808057ad6976)
 
 2. Review cards as normal
 3. Audio playback works just like in the main window
