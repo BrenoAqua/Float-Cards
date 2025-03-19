@@ -7,18 +7,19 @@ An Anki addon that creates a floating window to display the current card with cu
 
 ## Features
 
-- Floating window that stays on top (optional)
-- Syncs with main Anki window, closes the deck together with the pop-up
+- Floating window
+- Option to keep the window always on top
+- Syncs with the main Anki window and closes along with the deck
 - Support for light/dark themes
-- Keyboard shortcut support with support for multiple hotkeys for the same function 
-- Scheduling with intervals and auto-close functionality
+- Keyboard hotkey support, allowing multiple hotkeys for the same function
+- Scheduling with configurable intervals and auto-close functionality
 - Custom background image support with opacity control
 - Configurable button visibility and styling
 - Minimal interface
 - Content scaling (50-200%)
 - Hardware acceleration and image optimization
 - Quick loading of next cards
-- Position, content scaling and window memory between sessions
+- Remembers position, content scaling and window memory between sessions
 
 ## Installation
 
