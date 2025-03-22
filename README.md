@@ -40,10 +40,13 @@ Access the addon through Float Cards > Toggle Float Cards/Config
 - Keyboard hotkeys
 - Performance settings
 
-<img src="https://raw.githubusercontent.com/BrenoAqua/Float-Cards/refs/heads/main/preview-images/config/General.png" width="30%">
-<img src="https://raw.githubusercontent.com/BrenoAqua/Float-Cards/refs/heads/main/preview-images/config/Background.png" width="30%">
-<img src="https://raw.githubusercontent.com/BrenoAqua/Float-Cards/refs/heads/main/preview-images/config/Buttons.png" width="30%">
-<img src="https://raw.githubusercontent.com/BrenoAqua/Float-Cards/refs/heads/main/preview-images/config/Hotkeys.png" width="30%">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; max-width: 70%;">
+    <img src="https://raw.githubusercontent.com/BrenoAqua/Float-Cards/refs/heads/main/preview-images/config/General.png" width="45%">
+    <img src="https://raw.githubusercontent.com/BrenoAqua/Float-Cards/refs/heads/main/preview-images/config/Background.png" width="45%">
+    <img src="https://raw.githubusercontent.com/BrenoAqua/Float-Cards/refs/heads/main/preview-images/config/Buttons.png" width="45%">
+    <img src="https://raw.githubusercontent.com/BrenoAqua/Float-Cards/refs/heads/main/preview-images/config/Hotkeys.png" width="45%">
+</div>
+
 
 ### Default Keyboard Hotkeys
 
