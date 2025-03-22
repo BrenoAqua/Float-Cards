@@ -17,7 +17,6 @@ An Anki addon that creates a floating window to display the current card with cu
 - Batch Image Conversion to WebP 
 - Configurable button visibility and styling
 - Content scaling (50-200%)
-- Hardware acceleration
 - Quick loading of next cards
 - Remembers position, content scaling and window memory between sessions
 - Minimal interface
