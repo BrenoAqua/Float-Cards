@@ -2,8 +2,8 @@
 
 An Anki addon that creates a floating window to display the current card with custom intervals, allowing you to review cards while doing other tasks.
 
-<img src="https://github.com/user-attachments/assets/8e210aaf-f998-4a5f-a128-04f782f9d1aa" width="35%">
-<img src="https://github.com/user-attachments/assets/7d5e34c7-2a54-4ba6-aaac-011d49244110" width="35%">
+<img src="https://github.com/user-attachments/assets/776d2e10-8375-4124-927c-66b2ca3ea651" width="35%">
+<img src="https://github.com/user-attachments/assets/5e4df984-159c-4ef1-89e4-01d72c4372dd" width="35%">
 
 ## Features
 
