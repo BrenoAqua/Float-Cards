@@ -2,8 +2,10 @@
 
 An Anki addon that creates a floating window to display the current card with custom intervals, allowing you to review cards while doing other tasks.
 
-<img src="https://raw.githubusercontent.com/BrenoAqua/Float-Cards/refs/heads/main/preview-images/Default.png" width="35%">
-<img src="https://raw.githubusercontent.com/BrenoAqua/Float-Cards/refs/heads/main/preview-images/Background%20Active.png" width="35%">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; max-width: 70%;">
+  <img src="https://raw.githubusercontent.com/BrenoAqua/Float-Cards/refs/heads/main/preview-images/Default.png" width="35%">
+  <img src="https://raw.githubusercontent.com/BrenoAqua/Float-Cards/refs/heads/main/preview-images/Background%20Active.png" width="35%">
+</div>
 
 ## Features
 
