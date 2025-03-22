@@ -2,8 +2,8 @@
 
 An Anki addon that creates a floating window to display the current card with custom intervals, allowing you to review cards while doing other tasks.
 
-<img src="https://github.com/user-attachments/assets/776d2e10-8375-4124-927c-66b2ca3ea651" width="35%">
-<img src="https://github.com/user-attachments/assets/5e4df984-159c-4ef1-89e4-01d72c4372dd" width="35%">
+<img src="https://raw.githubusercontent.com/BrenoAqua/Float-Cards/refs/heads/main/preview-images/Default.png" width="35%">
+<img src="https://raw.githubusercontent.com/BrenoAqua/Float-Cards/refs/heads/main/preview-images/Background%20Active.png" width="35%">
 
 ## Features
 
@@ -40,11 +40,10 @@ Access the addon through Float Cards > Toggle Float Cards/Config
 - Keyboard hotkeys
 - Performance settings
 
-<img src="https://github.com/user-attachments/assets/5f0b4d9c-7273-4f11-a83a-f71db337d9e2" width="32.5%">
-<img src="https://github.com/user-attachments/assets/d8e97bd7-0918-45fb-8a35-1bb7c2aaf780" width="32.5%">
-<img src="https://github.com/user-attachments/assets/ef883bca-3f17-4065-a51f-b44f63bc4283" width="32.5%">
-<img src="https://github.com/user-attachments/assets/1208b331-0339-4c78-a15b-313f365967f1" width="32.5%">
-<img src="https://github.com/user-attachments/assets/9e223ca9-909e-4a6d-9f75-3b3506283a2e" width="32.5%">
+<img src="https://raw.githubusercontent.com/BrenoAqua/Float-Cards/refs/heads/main/preview-images/config/General.png" width="32.5%">
+<img src="https://raw.githubusercontent.com/BrenoAqua/Float-Cards/refs/heads/main/preview-images/config/Background.png" width="32.5%">
+<img src="https://raw.githubusercontent.com/BrenoAqua/Float-Cards/refs/heads/main/preview-images/config/Buttons.png" width="32.5%">
+<img src="https://raw.githubusercontent.com/BrenoAqua/Float-Cards/refs/heads/main/preview-images/config/Hotkeys.png" width="32.5%">
 
 ### Default Keyboard Hotkeys
 
