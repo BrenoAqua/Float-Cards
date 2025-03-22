@@ -7,19 +7,20 @@ An Anki addon that creates a floating window to display the current card with cu
 
 ## Features
 
-- Floating window
-- Option to keep the window always on top
+- Floating window with an option to keep it always on top
 - Syncs with the main Anki window and closes along with the deck
+- Option to enable or disable custom animations
 - Support for light/dark themes
 - Keyboard hotkey support, allowing multiple hotkeys for the same function
 - Scheduling with configurable intervals and auto-close functionality
-- Custom background image support with opacity control
+- Custom background image support with opacity control and image rotation
+- Batch Image Conversion to WebP 
 - Configurable button visibility and styling
-- Minimal interface
 - Content scaling (50-200%)
-- Hardware acceleration and image optimization
+- Hardware acceleration
 - Quick loading of next cards
 - Remembers position, content scaling and window memory between sessions
+- Minimal interface
 
 ## Installation
 
@@ -27,18 +28,9 @@ An Anki addon that creates a floating window to display the current card with cu
 2. Restart Anki
 3. Access the addon through Float Cards > Toggle Float Cards/Config
 
-## Configuration
+## Config
 
 Access the addon through Float Cards > Toggle Float Cards/Config
-
-- Window size and position
-- Stay on top behavior
-- Theme customization
-- Content scaling
-- Background image and opacity
-- Button visibility and styling
-- Keyboard hotkeys
-- Performance settings
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; max-width: 70%;">
     <img src="https://raw.githubusercontent.com/BrenoAqua/Float-Cards/refs/heads/main/preview-images/config/General.png" width="45%">
@@ -46,7 +38,6 @@ Access the addon through Float Cards > Toggle Float Cards/Config
     <img src="https://raw.githubusercontent.com/BrenoAqua/Float-Cards/refs/heads/main/preview-images/config/Buttons.png" width="45%">
     <img src="https://raw.githubusercontent.com/BrenoAqua/Float-Cards/refs/heads/main/preview-images/config/Hotkeys.png" width="45%">
 </div>
-
 
 ### Default Keyboard Hotkeys
 
@@ -83,7 +74,7 @@ Access the addon through Float Cards > Toggle Float Cards/Config
 
 You can set a custom background image for the popup window:
 1. Enable background in the config
-2. Set the path to your image
+2. Select an image through `Browse Images`
 3. Adjust the opacity (0-100)
 4. The image will be displayed behind the card content
 
